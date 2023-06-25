@@ -1,5 +1,7 @@
 # GET-SET-GO
-Basic syntaxes of Go Lang
+![image](https://github.com/MainakRepositor/Get-Set-GO/assets/64016811/dc24ccb3-88b7-4f24-bb13-097d49be0d64)
+
+## Basic syntaxes of Go Lang
 
 
 ### Topics:
